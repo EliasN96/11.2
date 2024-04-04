@@ -3,7 +3,7 @@ def str_func(word):
     return word.upper()
 
 
-def str_func_2(word):
+def str_func_2(words):
     """Функция делает все слова с
     заглавной первой буквой """
-    return word.title()
+    return words.title()
